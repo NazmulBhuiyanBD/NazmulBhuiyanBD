@@ -67,13 +67,6 @@ REST APIs, Firebase, Git, GitHub
 **Database:**  
 SQL Server, Firebase Firestore  
 
----
-
-## 🌐 Connect with Me
-
-- 🔗 LinkedIn: https://linkedin.com/in/nazmulhaquebhuiyan  
-- 💻 GitHub: https://github.com/NazmulBhuiyanBD  
-- 🌍 Portfolio: https://nazmulbhuiyanbd.github.io/portfolio/  
 
 
 ---
